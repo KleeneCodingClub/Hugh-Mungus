@@ -1,1 +1,1 @@
-# Hugh-Mungus
+# Kleene Coding Club Projects
